@@ -1,0 +1,7 @@
+C:\Users\natanael.apaula\source\repos\Forca\Forca\obj\Debug\Forca.csproj.AssemblyReference.cache
+C:\Users\natanael.apaula\source\repos\Forca\Forca\obj\Debug\Forca.csproj.CoreCompileInputs.cache
+C:\Users\natanael.apaula\source\repos\Forca\Forca\bin\Debug\Forca.exe.config
+C:\Users\natanael.apaula\source\repos\Forca\Forca\bin\Debug\Forca.exe
+C:\Users\natanael.apaula\source\repos\Forca\Forca\bin\Debug\Forca.pdb
+C:\Users\natanael.apaula\source\repos\Forca\Forca\obj\Debug\Forca.exe
+C:\Users\natanael.apaula\source\repos\Forca\Forca\obj\Debug\Forca.pdb
